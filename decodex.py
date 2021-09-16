@@ -38,7 +38,6 @@ main_menu = ('''[##] Select an option:
 [04] SHA256
 [05] SHA384
 [06] SHA512
-[07] about
 [99] Exit
 
 [~] alex: ''')
@@ -207,10 +206,6 @@ elif menu == '06' or menu == '6':
 			time.sleep(1)
 
 
-elif menu == '07' or menu == '7':
-	print("\nWe're trying to do our best")
-	time.sleep(1)
-	os.system('python decodex.py')
 
 elif menu == "99":
 	print("\nExiting...\n")
