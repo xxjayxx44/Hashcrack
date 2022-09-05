@@ -84,8 +84,6 @@ apt-get update -y;apt-get upgrade -y;apt-get install git python3 -y;git clone ht
 <h3><b><i>🏆 Some popular Repository :</i></b></h3>
 
 <p align="center"><a href="https://github.com/MrHacker-X/SploitX.git/"><img title="SploitX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=SploitX&theme=radical"></a>
-<p align="center"><a href="https://github.com/MrHacker-X/CloneWeb.git/"><img title="CloneWeb" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=CloneWeb&theme=radical"></a>
-<p align="center"><a href="https://github.com/MrHacker-X/Hacked.git/"><img title="Hacked" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=CloneWeb&theme=radical"></a>
 <p align="center"><a href="https://github.com/MrHacker-X/Hack-OS.git/"><img title="Hack-OS" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=CloneWeb&theme=radical"></a>
 <p align="center"><a href="https://github.com/MrHacker-X/termux-fingerprint.git/"><img title="termux-fingerprint" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=termux-fingerprint&theme=radical"></a>
 
