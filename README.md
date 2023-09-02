@@ -1,92 +1,62 @@
-# DecodeX
+<h1 align="center">DecodeX</h1>
 
-```Created By: MrHacker-X```
+<p align="center"> 
+  <img src="https://img.shields.io/github/stars/MrHacker-X/DecodeX?style=for-the-badge&color=orange">
+  <img src="https://img.shields.io/github/forks/MrHacker-X/DecodeX?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/watchers/MrHacker-X/DecodeX?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/issues/MrHacker-X/DecodeX?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/MrHacker-X/DecodeX?style=for-the-badge&color=blue">
+  <img src="https://hits.dwyl.com/MrHacker-X/DecodeX.svg" width="140" height="28">
+<br>
+<br>
+  <img src="https://img.shields.io/badge/Author-Alex Butler-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
+</p>
 
-![photo](https://raw.githubusercontent.com/MrHacker-X/DecodeX/main/.img/banner.jpg)
 
-## Introduction
-+ This is a password hashes bruteforcer which is written in python3. You can decrypt 6 type of hashes algorithms hashes that is mentioned down below:
-+ ```MD5```
-+ ```SHA1```
-+ ```SHA224```
-+ ```SHA256```
-+ ```SHA384```
-+ ```SHA512```
+## Whats new in Latest version
 
-## Used python module
-+ hashlib
++ `Added 4 more hashes type`
++ `Increased cracking speed`
++ `Enhanched user experience`
 
-## Tested ON
+### DecodeX - A High-Speed Hash Cracking Tool
 
-+ Termux (android)
-+ Kali linux
-+ Debian
-+ Ubuntu
-+ void
-+ alpine
-+ garuda
++ DecodeX is a powerful Python-based hash cracking tool that supports a wide range of hash algorithms and boasts super-fast attacking capabilities. With DecodeX, you can efficiently crack various hash types, including MD5, SHA-1, SHA-224, SHA-256, SHA-384, SHA-512, SHA3-224, SHA3-256, SHA3-384, and SHA3-512, at speeds exceeding 100,000 words per second.
 
-## Available for
+## Features
 
-+ Termux (android)
-+ Kali linux
-+ Debian
-+ Ubuntu
-+ void
-+ alpine
-+ garuda
+  + Supports 10 different hash algorithms, making it versatile and suitable for various applications.
+  + Blazing fast hash cracking speed, ideal for quickly recovering passwords or validating hashes.
+  + Easy-to-use command-line interface for straightforward execution.
+  + Well-documented code for those who want to understand the inner workings or contribute to the project.
+  + GitHub Actions integration for continuous testing and deployment.
 
-## Requirements
-
-+ Python3
+### Supporting all type of Linux OS (Including Termux)
 
 ## Installation
-+ Just Type and ENTER all the commands one by one in your terminal. If you don't want to type and ENTER all commands one by one then you can install this tool by only one line command that is also given down below
 
-```
-apt-get update -y
-apt-get upgrade -y
-apt-get install git python3 -y
-git clone https://github.com/MrHacker-X/DecodeX.git/
-cd DecodeX
-python3 decodex.py
-```
++ `git clone https://github.com/MrHacker-X/DecodeX.git/`
++ `cd DecodeX`
++ `python decodex.py`
 
-## One line installation
-
-```
-apt-get update -y;apt-get upgrade -y;apt-get install git python3 -y;git clone https://github.com/MrHacker-X/DecodeX.git/;cd DecodeX;python3 decodex.py
-```
-
+> Easy to use
 
 ## Screenshots
 
-#### Main menu
-![photo](https://raw.githubusercontent.com/MrHacker-X/DecodeX/main/.img/menu.jpg)
-#### Wordlist Input
-![photo](https://raw.githubusercontent.com/MrHacker-X/DecodeX/main/.img/pass.jpg)
-#### Getting ready for Crack
-![photo](https://raw.githubusercontent.com/MrHacker-X/DecodeX/main/.img/loading.jpg)
-#### Hash is cracked
-![photo](https://raw.githubusercontent.com/MrHacker-X/DecodeX/main/.img/brute.jpg)
+![screenshot](https://i.ibb.co/3fb3Kj7/Screenshot-2023-09-02-15-04-05-708-com-termux-edit.jpg)
 
+![screenshot](https://i.ibb.co/G3nTWwC/Screenshot-2023-09-02-15-05-10-510-com-termux-edit.jpg)
 
 ## Warning:
+
 + We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
 
-<h3><b><i>📡 Connect with us :</i></b></h3>
-<a href="https://github.com/MrHacker-X/"><img align="left" title="Github" alt="Github" width="30px" src="https://raw.githubusercontent.com/MrHacker-X/MrHacker-X/main/assets/github.png" /></a>
-<a href="https://instagram.com/hackerxmr/"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/MrHacker-X/MrHacker-X/main/assets/instagram.png" /></a>
-<a href="https://t.me/hackwithalex/"><img align="left" title="Telegram" alt="Telegram" width="30px" src="https://raw.githubusercontent.com/MrHacker-X/MrHacker-X/main/assets/telegram.png" /></a>
-<a href="https://youtube.com/@Technolex/"><img align="left" title="YouTube" alt="YouTube" width="30px" src="https://raw.githubusercontent.com/MrHacker-X/MrHacker-X/main/assets/youtube.png" /></a>
-
-#
-<h3><b><i>🏆 Some popular Repository :</i></b></h3>
-
-<p align="center"><a href="https://github.com/MrHacker-X/SploitX.git/"><img title="SploitX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=SploitX&theme=radical"></a>
-<p align="center"><a href="https://github.com/MrHacker-X/Hack-OS.git/"><img title="Hack-OS" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=CloneWeb&theme=radical"></a>
-<p align="center"><a href="https://github.com/MrHacker-X/termux-fingerprint.git/"><img title="termux-fingerprint" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=termux-fingerprint&theme=radical"></a>
-
-
-
-
+## Some Popular repository:
++ You can check it out
+<p align="center"><a href="https://github.com/MrHacker-X/KillerX.git/"><img title="KillerX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=KillerX&theme=dark"></a>
+<p align="center"><a href="https://github.com/MrHacker-X/BruteX.git/"><img title="BruteX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=BruteX&theme=dark"></a>
+<p align="center"><a href="https://github.com/MrHacker-X/OsintifyX.git/"><img title="OsintifyX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=OsintifyX&theme=dark"></a>
+<p align="center"><a href="https://github.com/MrHacker-X/LinuxX.git/"><img title="LinuxX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=LinuxX&theme=dark"></a>
+<p align="center"><a href="https://github.com/MrHacker-X/InfoGX.git/"><img title="InfoGX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=InfoGX&theme=dark"></a>
