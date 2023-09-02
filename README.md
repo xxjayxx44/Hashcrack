@@ -47,7 +47,7 @@
 
 ![screenshot](https://i.ibb.co/3fb3Kj7/Screenshot-2023-09-02-15-04-05-708-com-termux-edit.jpg)
 
-![screenshot](https://i.ibb.co/G3nTWwC/Screenshot-2023-09-02-15-05-10-510-com-termux-edit.jpg)
+![screenshot](https://i.ibb.co/RSmbKKw/Screenshot-2023-09-02-16-25-59-578-com-termux-edit.jpg)
 
 ## Warning:
 
